@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hangutan/toDoList-react/static/css/main.11adbfd2.chunk.css",
+    "main.js": "/hangutan/toDoList-react/static/js/main.ca9c971d.chunk.js",
+    "main.js.map": "/hangutan/toDoList-react/static/js/main.ca9c971d.chunk.js.map",
+    "runtime-main.js": "/hangutan/toDoList-react/static/js/runtime-main.6f507fc8.js",
+    "runtime-main.js.map": "/hangutan/toDoList-react/static/js/runtime-main.6f507fc8.js.map",
+    "static/js/2.b89d6f86.chunk.js": "/hangutan/toDoList-react/static/js/2.b89d6f86.chunk.js",
+    "static/js/2.b89d6f86.chunk.js.map": "/hangutan/toDoList-react/static/js/2.b89d6f86.chunk.js.map",
+    "index.html": "/hangutan/toDoList-react/index.html",
+    "precache-manifest.c960723b0651c764619898314c7e29ce.js": "/hangutan/toDoList-react/precache-manifest.c960723b0651c764619898314c7e29ce.js",
+    "service-worker.js": "/hangutan/toDoList-react/service-worker.js",
+    "static/css/main.11adbfd2.chunk.css.map": "/hangutan/toDoList-react/static/css/main.11adbfd2.chunk.css.map",
+    "static/js/2.b89d6f86.chunk.js.LICENSE.txt": "/hangutan/toDoList-react/static/js/2.b89d6f86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f507fc8.js",
+    "static/js/2.b89d6f86.chunk.js",
+    "static/css/main.11adbfd2.chunk.css",
+    "static/js/main.ca9c971d.chunk.js"
+  ]
+}
